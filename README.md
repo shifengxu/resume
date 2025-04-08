@@ -21,20 +21,31 @@ I participated in the entire project and finished 60% code (more than 10K lines)
 The result contains 1.3 million terms and is used by [zhidao.baidu.com](https://zhidao.baidu.com/).
 
 ### 2010.01-2011.08	Teradata – SQL Generator (Java)
-A parallel testing platform which can test Teradata Database / Datawarehouse efficiently. 
-I focus on ``SQL generator`` to generate complicated SQL (80K lines per query). 
+Our team built a parallel testing platform which can test Teradata Database / Datawarehouse efficiently. 
+I focus on ``SQL generator`` to generate super complicated SQL queries (80K lines per query). 
 With this generator and the platform, we found much more bugs than other teams. 
 
-### 2011.08-2014.07	Microsoft China – Web development (HTML/JS/Jquery/CSS, C#, SQL Server)
-The team supports website “[msn.com](https://www.msn.com/en-sg)” for dozens of countries and develops new features on it.
-I work as a full-stack engineer: storage optimizing, business logic and UI rendering. In 2013, I was promoted to SDE II. The web traffic is very high, and we use distributed system to handle it.
-Our features have been integrated to many global partners.
+### 2011.08-2014.07	Microsoft China – Web development (HTML/JS/Jquery/CSS, C#, SQL)
+The team supports website “[msn.com](https://www.msn.com/en-sg)” globally and develops new features on it.
+I work as a full-stack engineer: storage optimizing, business logic and UI rendering. 
+The web traffic is very high, and we use distributed system to handle it.
+Our features have been integrated to many global partners. In 2013, I was promoted to SDE II. 
 
-### 2014.09-2020.01	IBM (Singapore) – SLA: Software Lifecycle Automation (Linux, Ruby, Chef)
+### 2014.09-2020.01	IBM (Singapore) – Software Lifecycle Automation (SLA)
 SLA handles enterprise security management based on a variety of security requirements and rules.
 I focus on endpoint manipulation: audit, log, permission, AD GPO. I became an expert on Chef & Ruby and learned many management skills.
 Our production has been deployed to thousands of clients (Windows, Linux, AIX).
 
 ### 2020.06-2021.08	Ascentis CRM (Singapore) – Team management and System Optimization
-[Ascentis CRM](https://corp.ascentis.com.sg/ascentis-crm/) is prestigious with long history. Her customers include Starbucks, Changi Airport Group, OCBC and so on.
+[Ascentis CRM](https://corp.ascentis.com.sg/ascentis-crm/) is prestigious with long history. 
+In Singapore, her customers include Starbucks, Changi Airport Group, OCBC and so on. 
+I worked as AVP and lead a team to maintain the core business module. 
 
+## Honor and publication
+- Top 10 of Olympic Mathematics Competition in Hebei province.
+
+- Shifeng Xu, Jun Gao, Dongqing Yang, Tengjiao Wang. [A crossing-based path query method for large-scale graphs](https://xueshu.baidu.com/usercenter/paper/show?paperid=447c27de516ac3488bec12280d681499&site=xueshu_se). NDBC 2009.
+
+- Shifeng Xu, Yanzhu Liu, Adams Wai-Kin Kong, [Easing Training Process of Rectified Flow Models Via Lengthening Inter-Path Distance](https://openreview.net/forum?id=RaR3ETzyKp). ICLR (spotlight) 2025
+
+- Shifeng Xu, Yanzhu Liu, Adams Wai-Kin Kong, Variance-Reduction Guidance: Sampling Trajectory Optimization for Diffusion Models. ICME 2025
