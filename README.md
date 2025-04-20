@@ -1,6 +1,6 @@
 # Personal Resume
 
-## A brief chronological history in academia and industry.
+## A brief chronological history in academia and industry
 
 | Period            | Logo                                      | Affiliation                              | Position                     | Location       |
 |-------------------|-------------------------------------------|------------------------------------------|------------------------------|----------------|
@@ -13,6 +13,20 @@
 | 2020.06 - 2021.08 | <img src="./logo/ascentis.png" width=50>  | AscentisCRM Private Limited              | AVP                          | Singapore      |
 | 2021.08 - 2025.08 | <img src="./logo/ntu.png" width=50>       | Nanyang Technological University         | Full-time PhD student        | Singapore      |
 
+## Academic experience
+### 2001.09-2005.07 Beijing Information Technology Institute (China) - Bachelor
+Major in [Management Information System](https://en.wikipedia.org/wiki/Management_information_system).
+
+Beijing Information Technology Institute was (merged with other school and) renamed to 
+[Beijing Information Science and Technology University](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/441344) in 2008.
+
+### 2006.09-2009.07 Peking University (China) - Master
+Major in Computer Software and Theory, under the School of [Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/). 
+For my master program, my supervisor is Prof [Yang Dongqing](https://baike.baidu.com/item/%E6%9D%A8%E5%86%AC%E9%9D%92/13345008).
+
+### 2021.08-2025.08 Nanyang Technological University (Singapore) - PhD
+Major in Deep Learning with research title "Efficient Generative AI", under the [College of Computing and Data Science](https://www.ntu.edu.sg/computing).
+For my PhD program, my supervisor is Prof [Adams Wai-Kin Kong](https://personal.ntu.edu.sg/AdamsKong/).
 
 ## Project experience
 ### 2008.04-2008.09 Internship at Baidu – Construction of Ontology Architecture (Linux, C++)
@@ -20,12 +34,12 @@ This project was to develope an automated system for constructing a large-scale 
 I contributed to the entire project lifecycle and implemented over 60% of the codebase (10,000+ lines). 
 The resulting ontology, comprising 1.3 million terms, is deployed in [zhidao.baidu.com](https://zhidao.baidu.com/).
 
-### 2010.01-2011.08	Teradata – SQL Query Generator (Java)
+### 2010.01-2011.08	Teradata (Beijing) – SQL Query Generator (Java)
 Our team built a parallel testing platform which can test Teradata Database / Datawarehouse efficiently. 
 I focused on ``SQL query generator`` to generate super complicated SQL queries (80K lines per query). 
 With this generator and the platform, we found much more bugs than other teams. 
 
-### 2011.08-2014.07	Microsoft China – Web Development and [Bing](https://www.bing.com/) Ads Management 
+### 2011.08-2014.07	Microsoft (Beijing) – Web Development and [Bing](https://www.bing.com/) Ads Management 
 At Microsoft, I worked in two different departments. 
 The first one supported website “[msn.com](https://www.msn.com/en-sg)” across multiple countries and languages. 
 As a full-stack engineer, I contributed to storage optimization, business logic implementation, and UI rendering. 
