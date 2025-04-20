@@ -16,33 +16,44 @@
 
 ## Project experience
 ### 2008.04-2008.09 Internship at Baidu – Construction of Ontology Architecture (Linux, C++)
-This project was to build Chinese semantic Ontology network automatically. 
-I participated in the entire project and finished 60% code (more than 10K lines). 
-The result contains 1.3 million terms and is used by [zhidao.baidu.com](https://zhidao.baidu.com/).
+This project was to develope an automated system for constructing a large-scale Chinese language semantic ontology network. 
+I contributed to the entire project lifecycle and implemented over 60% of the codebase (10,000+ lines). 
+The resulting ontology, comprising 1.3 million terms, is deployed in [zhidao.baidu.com](https://zhidao.baidu.com/).
 
-### 2010.01-2011.08	Teradata – SQL Generator (Java)
+### 2010.01-2011.08	Teradata – SQL Query Generator (Java)
 Our team built a parallel testing platform which can test Teradata Database / Datawarehouse efficiently. 
-I focus on ``SQL generator`` to generate super complicated SQL queries (80K lines per query). 
+I focused on ``SQL query generator`` to generate super complicated SQL queries (80K lines per query). 
 With this generator and the platform, we found much more bugs than other teams. 
 
-### 2011.08-2014.07	Microsoft China – Web development (HTML/JS/Jquery/CSS, C#, SQL)
-The team supports website “[msn.com](https://www.msn.com/en-sg)” globally and develops new features on it.
-I work as a full-stack engineer: storage optimizing, business logic and UI rendering. 
-The web traffic is very high, and we use distributed system to handle it.
-Our features have been integrated to many global partners. In 2013, I was promoted to SDE II. 
+### 2011.08-2014.07	Microsoft China – Web Development and [Bing](https://www.bing.com/) Ads Management 
+At Microsoft, I worked in two different departments. 
+The first one supported website “[msn.com](https://www.msn.com/en-sg)” across multiple countries and languages. 
+As a full-stack engineer, I contributed to storage optimization, business logic implementation, and UI rendering. 
+Given the high web traffic, we leveraged distributed systems to ensure performance and scalability.
+Our newly developed features were integrated with various global partners. 
+During this period, I was promoted to **Software Development Engineer II (SDE II)**. 
 
-### 2014.09-2020.01	IBM (Singapore) – Software Lifecycle Automation (SLA)
-SLA handles enterprise security management based on a variety of security requirements and rules.
-I focus on endpoint manipulation: audit, log, permission, AD GPO. I became an expert on Chef & Ruby and learned many management skills.
-Our production has been deployed to thousands of clients (Windows, Linux, AIX).
+In the second department, I worked on maintaining the advertising system for the [Bing](https://www.bing.com/) search engine. 
+Our team was responsible for the end-to-end management of ads, including data storage, rendering strategies, recommendation algorithms, and more.
+
+### 2014.09-2020.01	IBM (Singapore) – Software Lifecycle Automation
+Our team was responsible for enterprise security management, addressing a wide range of security requirements and compliance rules.
+My primary focus was on endpoint control, including auditing, logging, permissions, 
+and the administration of Windows [Active Directory](https://en.wikipedia.org/wiki/Active_Directory) 
+and [Group Policy Objects](https://en.wikipedia.org/wiki/Group_Policy) (GPOs).
+During this time, I developed deep expertise in the [Ruby](https://www.ruby-lang.org/en/) programming language 
+and the [Chef](https://docs.chef.io/) configuration management framework. 
+I also gained valuable experience in team collaboration and leadership.
+Our product has been deployed across many client systems, including Windows, Linux, and AIX platforms. 
 
 ### 2020.06-2021.08	Ascentis CRM (Singapore) – Team management and System Optimization
-[Ascentis CRM](https://corp.ascentis.com.sg/ascentis-crm/) is prestigious with long history. 
-In Singapore, her customers include Starbucks, Changi Airport Group, OCBC and so on. 
-I worked as AVP and lead a team to maintain the core business module. 
+[Ascentis CRM](https://corp.ascentis.com.sg/ascentis-crm/) is a well-established and prestigious player in customer relationship management (CRM) space. 
+In Singapore, its clients include prominent names such as [Starbucks](https://www.starbucks.com.sg/), 
+[Changi Airport Group](https://www.changiairport.com/), and [OCBC](https://www.ocbc.com/). 
+I served as AVP and led a team responsible for maintaining the core business modules, which accounted for 70% of the company's revenue.
 
 ## Honor and publication
-- Top 10 of Olympic Mathematics Competition in Hebei province.
+- Top 10 of Olympic Mathematics Competition in Hebei province, PRC China.
 
 - Shifeng Xu, Jun Gao, Dongqing Yang, Tengjiao Wang. [A crossing-based path query method for large-scale graphs](https://xueshu.baidu.com/usercenter/paper/show?paperid=447c27de516ac3488bec12280d681499&site=xueshu_se). NDBC 2009.
 
